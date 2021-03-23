@@ -1,0 +1,40 @@
+p.category9{
+    color:yellowgreen;
+    text-align:center;
+    box-sizing: border-box;
+    border-radius: 50%;
+    }
+
+div.col1{
+    background-color: yellowgreen;
+    width: 50%;
+    display: inline-block;
+    margin-top: 11px;
+}
+
+div.col1 h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    border: 15px solid green;
+    margin-right: 10%;
+}
+
+div.col2{
+    float:right;
+    width:50%;
+    margin-top: 11px;
+}
+
+div.col2 h2{
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 17px;
+    border: 15px solid green;
+    padding-bottom: 10px;
+
+}
+
+* {
+    overflow:auto;
+}
